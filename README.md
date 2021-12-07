@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently improving my JS: [JavaScript30](https://github.com/SebGustavsson/JavaScript30)
 
-- 💻 My education diploma: **https://drive.google.com/file/d/1MfnLYT8eTBUqr-5OLf_D7NqLd3Ii2ojR/view?usp=sharing**
+- 💻 My education: [Diploma]https://drive.google.com/file/d/1MfnLYT8eTBUqr-5OLf_D7NqLd3Ii2ojR/view?usp=sharing
 
-- 📫 How to reach me: [https://www.linkedin.com/in/sebastian-gustavsson-62b563200/](https://www.linkedin.com/in/sebastian-gustavsson-62b563200/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sebastian-gustavsson-62b563200/)
 
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1l6V_8Ui4aHVz842tTt_KmGkXtmwg2L0-/view?usp=sharing)
 
