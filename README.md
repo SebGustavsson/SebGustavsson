@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
-<h3 align="center">A passionate web developer from Sweden</h3>
+<h3 align="center">A passionate web developer from Sweden 🇸🇪 </h3>
 
 - 🌱 I’m currently improving my JS: [JavaScript30](https://github.com/SebGustavsson/JavaScript30)
 
@@ -10,8 +10,6 @@
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1l6V_8Ui4aHVz842tTt_KmGkXtmwg2L0-/view?usp=sharing)
 
 - 💭 Fun fact about me: **I speak Korean 🇰🇷**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
