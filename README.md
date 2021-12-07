@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
 <h3 align="center">A passionate web developer from Sweden</h3>
 
-- 🌱 I’m currently improving my: JS [JavaScript30](https://github.com/SebGustavsson/JavaScript30)
+- 🌱 I’m currently improving my JS: [JavaScript30](https://github.com/SebGustavsson/JavaScript30)
 
 - 💻 My education diploma: **https://drive.google.com/file/d/1MfnLYT8eTBUqr-5OLf_D7NqLd3Ii2ojR/view?usp=sharing**
 
